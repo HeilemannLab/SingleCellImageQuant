@@ -1,0 +1,14 @@
+Batch processing: yes
+DAPI Channel: 1
+Actin Channel: 3
+Protein Channel: 2
+Thresholding for actin: automatic
+Lower Threshold to create masks of whole cells: 55
+Upper Threshold to create masks of whole cells: 255
+Filtering options for actin mask - Gaussian blur radius [px]: 2
+Filtering options for actin mask - Median: 2
+Analysis of cytoplasm and nuclei: yes
+Thresholding for the nuclei: automatic
+Lower threshold to create masks of the nuclei: 20
+Upper threshold to create masks of the nuclei: 255
+Filter options for nuclei mask - Median: 10
