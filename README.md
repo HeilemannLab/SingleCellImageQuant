@@ -4,7 +4,7 @@ Fast and automated processing of multi-channel 3D confocal microscopy data in Fi
 - create ROIs of full cells and nuclei based on two channels, e.g. DAPI and actin
 - measure the intensity in and area of the ROI for each channel 
 
-The pipeline is compatible with standard microscopy data formats working with the Bio-Formats importer of Fiji.
+The pipeline is compatible with standard microscopy data formats working with the Bio-Formats importer<sup>[2]</sup> of Fiji.
 
 ![](tmp/SingleCellImageQuant_Workflow.png)
 
