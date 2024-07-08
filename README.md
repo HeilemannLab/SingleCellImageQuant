@@ -25,5 +25,5 @@ Claudia Catapano, Marina Dietz
 [2] Linkert, M., Rueden, C. T., Allan, C., *et al.* J. Cell Biol., 189(5), 777–782 (2010).
 
 ## Citation
-**Please cite our paper when using SPTAnalyser for your research.** </br>
+**Please cite our paper when using SingleCellImageQuant for your research.** </br>
 Catapano, C., Dietz, M.S., Heilemann, M. *manuscript in prep.*
